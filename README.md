@@ -19,7 +19,7 @@ To find any solution simply press the `Ctrl` + `F` and write your problem number
 - [URI](#uri)
     - [Beginner](#uri-beginner)
     - [AD-Hoc](#uri-ad-hoc)
-    - [Strings](#uri-string)
+    - [Strings](#uri-strings)
     - [Data Structures](#uri-data-structures)
     - [Mathematics](#uri-mathematics)
     - [SQL](#uri-sql)
